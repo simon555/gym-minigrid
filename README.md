@@ -1,4 +1,9 @@
 # Minimalistic Gridworld Environment (MiniGrid)
+This branch is a more flexible version of MiniGrid, it allows to create envs passing parameters
+
+
+
+# Minimalistic Gridworld Environment (MiniGrid)
 
 There are other gridworld Gym environments out there, but this one is
 designed to be particularly simple, lightweight and fast. The code has very few
